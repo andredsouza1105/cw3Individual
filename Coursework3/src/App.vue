@@ -7,6 +7,7 @@ import checkout from "./components/checkout.vue"
   <div id="app">
     <header>
       <h1>{{ sitename }}</h1>
+      <h2> My name is Andre</h2>
       <input type="text" v-model="searchValue"> <br><br>
       <p>
                     <strong>Sort By:</strong>
